@@ -1,6 +1,6 @@
-# Module 5 Individual Problem Set
+# Module 5 Team Problem Set
 
-Please complete one problem from the Module 5 Problem Set. The other problem will be completed with the help of a partner.
+Please complete one problem from the Module 5 Problem Set with a partner. The other problem will be completed on your own.
 
 ---
 
